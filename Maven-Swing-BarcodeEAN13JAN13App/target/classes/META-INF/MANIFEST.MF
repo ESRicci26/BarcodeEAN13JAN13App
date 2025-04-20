@@ -1,5 +1,11 @@
 Manifest-Version: 1.0
 Built-By: ESRICCI
 Build-Jdk: 15.0.2
+Implementation-Title: Maven-Swing-BarcodeEAN13JAN13App
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Maven-Swing-BarcodeEAN13JAN13App
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Maven-Swing-Ba
+ rcodeEAN13JAN13App/
 Created-By: Maven Integration for Eclipse
 
